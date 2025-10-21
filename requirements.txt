@@ -1,0 +1,22 @@
+# Core bot and web API
+python-telegram-bot
+Flask
+Flask-Cors
+gunicorn
+
+# OpenAI SDK
+openai
+python-dotenv
+requests
+httpx
+
+# Data & ML stack
+pandas
+numpy
+scipy
+scikit-learn
+statsmodels
+tensorflow
+
+pydantic
+prophet
